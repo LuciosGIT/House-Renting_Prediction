@@ -8,6 +8,10 @@ Este projeto tem como objetivo prever o preço de aluguel de casas no estado de 
 - **Fonte:** Kaggle / Data Science Challenges  
 - **Descrição:** O conjunto de dados inclui informações como número de quartos, banheiros, vagas, área útil, localização, tipo do imóvel, entre outros atributos relevantes para precificação.
 
+## 📍 Visualização Geoespacial com Mapbox
+
+O projeto também utiliza a **API do Mapbox** em conjunto com a biblioteca `plotly` para gerar **mapas interativos**, permitindo visualizar espacialmente a distribuição dos imóveis disponíveis para aluguel na cidade de São Paulo. Isso facilita a análise de regiões com maior concentração, valores médios por bairro e outras informações geográficas relevantes.
+
 ## 🎯 Objetivo
 
 Desenvolver modelos de regressão capazes de prever o preço de aluguel com base nos atributos das propriedades.
